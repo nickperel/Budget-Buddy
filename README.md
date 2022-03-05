@@ -12,6 +12,10 @@
   * [Contributing](#contributing)
   * [License Info](#license-info)
 
+  ## Link to Deployed App
+
+  * https://warm-woodland-79829.herokuapp.com/ 
+
   ### Installation
   
   * Just run ```npm i``` through the command line to install dependencies needed.
