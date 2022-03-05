@@ -12,6 +12,10 @@
   * [Contributing](#contributing)
   * [License Info](#license-info)
 
+  ## Screenshot of App
+
+  ![](https://www.dropbox.com/s/fsh991ok7w8wi6l/Budget-Buddy.png?raw=1)
+
   ## Link to Deployed App
 
   * https://warm-woodland-79829.herokuapp.com/ 
